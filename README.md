@@ -1,6 +1,6 @@
-# slack-file-manager
+# slack-files-manager
+A web UI to manage files for a Slack Team
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.3.0.
 
 ## Getting Started
 
@@ -29,3 +29,4 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+
